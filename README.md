@@ -1,1 +1,1 @@
-Solana web3.js snippets
+**Solana web3.js snippets**
